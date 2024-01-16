@@ -16,5 +16,15 @@ contract/config/__init__.py
 contract/config/desktop.py
 contract/config/docs.py
 contract/contract/__init__.py
+contract/contract/custom/customer.json
+contract/contract/custom/journal_entry.json
+contract/contract/custom/journal_entry_account.json
+contract/contract/custom/packed_item.json
+contract/contract/custom/payment_entry.json
+contract/contract/custom/purchase_invoice.json
+contract/contract/custom/purchase_invoice_item.json
+contract/contract/custom/sales_invoice.json
+contract/contract/custom/sales_invoice_item.json
+contract/contract/custom/supplier.json
 contract/templates/__init__.py
 contract/templates/pages/__init__.py
